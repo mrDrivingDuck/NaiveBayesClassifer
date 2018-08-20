@@ -4,8 +4,6 @@ Author : Mr Dk.
 
 Date : 2018.6.18, Nanjing, Jiangsu, China.
 
-Copyright : Jingtang Zhang @NUAA CCST IoT.
-
 Description : Implementation of _Naive Bayes Classifier_ with _C/C++_.
 
 ---
